@@ -9,7 +9,6 @@ int del = 100;
 int time;
 int time1 = 5000;
 int time2 = 10000;
-int endtime = 15000;
 
 void setup() {
   Serial.begin(9600);
